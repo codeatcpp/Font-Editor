@@ -2,7 +2,9 @@
 
 Here is my school project written in Turbo Pascal 7.0 in the 90s.
 
-It contains rich editing tools for modifying and creating matrix fonts. It supports 8x8 and 16x8 font sizes. Note that all sources are have the CP866 encoding.
+It contains rich editing tools for modifying and creating matrix fonts. It supports 8x8 and 16x8 font sizes.
+
+**Important**: Note that all sources are have the CP866 encoding. And the comments are in Russian.
 
 ![About screen](FE1.PNG "About screen")
 
