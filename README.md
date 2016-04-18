@@ -17,3 +17,5 @@ To build this project you will need Borland Pascal or Turbo Pascal 7. In the IDE
 ![Context help](FE3.PNG "Context help")
 
 ![Editing 8x8 font](FE4.PNG "Editing 8x8 font")
+
+The full story in Russian read [here](http://www.codeatcpp.com/2015/07/blog-post.html).
