@@ -8,7 +8,7 @@ It contains rich editing tools for modifying and creating matrix fonts. It suppo
 
 ![About screen](FE1.PNG "About screen")
 
-If you want to compile and run this project on the modern hardware then be aware of the [Runtime error 200](https://en.wikipedia.org/wiki/Runtime_error_200).
+If you want to compile and run this project on the modern hardware then be aware of the [Runtime error 200](https://en.wikipedia.org/wiki/Turbo_Pascal#Issue_with_CRT_unit_on_fast_processors).
 
 To build this project you will need Borland Pascal or Turbo Pascal 7. In the IDE you need to change the current directory to the SRC using the "File->Change dir" menu and select the F_STUDIO.PAS as the "Primary file" in the "Compile menu". Also you need to add the path to the OBJ directory in the the "Options->Directories" dialog.
 
